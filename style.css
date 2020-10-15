@@ -17,6 +17,9 @@
     margin-top: 10px;
 }
 
+.nav-gjuhet {
+    margin-left: 900px;
+}
 
 .sidebar {
     margin: auto;
@@ -162,5 +165,9 @@
 @media screen and (max-width: 680px) {
     .rights-footsy h6 {
         font-size: 18px;
+    }
+    
+    .nav-gjuhet {
+        margin-left: 0px;
     }
 }
