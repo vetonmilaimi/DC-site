@@ -18,7 +18,7 @@
 }
 
 .nav-gjuhet {
-    margin-left: 700px;
+    background-color: red   ;
 }
 
 .sidebar {
@@ -168,6 +168,6 @@
     }
     
     .nav-gjuhet {
-        margin-left: 0px;
+        float: none;
     }
 }
